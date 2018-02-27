@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<title>Psych Therapy</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-heartbeat,.fa-frown-o,.fa-meh-o,.fa-close{font-size:200px }
+
+#navbar ul { 
+	margin: 50; 
+	padding: 50px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #ccccff; 
+	font-size: 20px;
+	height:30px;
+	
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff; 
+	background-color: ; 
+	} 
+ 
+#navbar ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+	} 
+	
+h1{
+font-family: Montserrat, sans-serif;}
+</style>
+<body>
+
+<img src="C:\Users\s1\Pictures\psych-therapy.png" class="img-rounded" alt="Cinque Terre" width="50" height="50"> <a href="test.html"><h1>Psych Therapy</h1></a>
+<div id="navbar"> 
+  <ul> 
+	<li><a href="#Anxiety">Anxiety</a></li> 
+	<li><a href="#Stress">Stress</a></li> 
+	<li><a href="#Depression">Depression</a></li> 
+	<li><a href="#Phobias">Phobias</a></li>
+  </ul> 
+</div> 
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+    
+    </div>
+<!-- Header -->
+
+</header>
+
+<!-- First Grid -->
+<div id= "Anxiety" div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>Anxiety</h1>
+      <h5 class="w3-padding-32">Everyone feels anxious now and then. It’s a normal emotion. For example, you may feel nervous when faced with a problem at work, before taking a test, or before making an important decision.
+Anxiety disorders are different, though. They are a group of mental illnesses, and the distress they cause can keep you from carrying on with your life normally.
+For people who have one, worry and fear are constant and overwhelming, and can be disabling. But with treatment, many people can manage those feelings and get back to a fulfilling life.</h5>
+ <h4> Tips</h4>
+      <p class="w3-text-grey">Take a time-out. Practice yoga, listen to music, meditate, get a massage, or learn relaxation techniques. Stepping back from the problem helps clear your head.
+Eat well-balanced meals. Do not skip any meals. Do keep healthful, energy-boosting snacks on hand.
+Limit alcohol and caffeine, which can aggravate anxiety and trigger panic attacks.
+Get enough sleep. When stressed, your body needs additional sleep and rest.
+Exercise daily to help you feel good and maintain your health. Check out the fitness tips below.
+Take deep breaths. Inhale and exhale slowly.
+Count to 10 slowly. Repeat, and count to 20 if necessary.
+Do your best. Instead of aiming for perfection, which isn't possible, be proud of however close you get.
+Accept that you cannot control everything. Put your stress in perspective: Is it really as bad as you think?
+Welcome humor. A good laugh goes a long way.
+.</p>
+    </div>
+
+    <div class="w3-third w3-center">
+      <i class="fa fa-heartbeat w3-padding-64 w3-text-red"></i>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid -->
+<div id="Stress" div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa fa-meh-o w3-padding-64 w3-text-red w3-margin-right"></i>
+    </div>
+
+    <div class="w3-twothird">
+      <h1>Stress</h1>
+	 
+      <h5 class="w3-padding-32">Stress is what you feel when you have to handle more than you are used to. When you are stressed, your body responds as though you are in danger. It makes hormones that speed up your heart, make you breathe faster, and give you a burst of energy. This is called the fight-or-flight stress response.
+Some stress is normal and even useful. Stress can help if you need to work hard or react quickly. For example, it can help you win a race or finish an important job on time.
+But if stress happens too often or lasts too long, it can have bad effects. It can be linked to headaches, an upset stomach, back pain, and trouble sleeping. It can weaken your immune system, making it harder to fight off disease. If you already have a health problem, stress may make it worse. It can make you moody, tense, or depressed. Your relationships may suffer, and you may not do well at work or school.
+.</h5>
+ <h4> Tips</h4>
+      <p class="w3-text-grey">Find a balance between personal, work, and family needs. This isn't easy. Start by looking at how you spend your time. Maybe there are things that you don't need to do at all. Finding a balance can be especially hard during the holidays.
+Have a sense of purpose in life. Many people find meaning through connections with family or friends, jobs, their spirituality, or volunteer work.
+Get enough sleep. Your body recovers from the stresses of the day while you are sleeping. If your worries keep you from sleeping, keep a notepad or your cell phone by your bed to record what you are worried about-to help you let it go while you sleep. For example, if you are worried you might forget to run an errand the next day, make a note so that you can stop worrying about forgetting.
+Adopt healthy habits. Eat a healthy diet, limit how much alcohol you drink, and don't smoke. Staying healthy is your best defense against stress.
+.</p>
+    </div>
+  </div>
+</div>
+<!-- Third Grid -->
+
+<div id="Depression" div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>Depression</h1>
+      <h5 class="w3-padding-32">Do you suffer with depression? Maybe you’ve recently been diagnosed or are a caregiver to someone with depression. Learn more about this common mood disorder, including depression causes, risk factors, and prevention. We’ll help you take control of your depression and live an active, healthy life.
+.</h5>
+ <h4> Tips</h4>
+      <p class="w3-text-grey">Talk to one person about your feelings. Help someone else by volunteering. Have lunch or coffee with a friend. Ask a loved one to check in with you regularly. Accompany someone to the movies, a concert, or a small get-together. Call or email an old friend. Go for a walk with a workout buddy. Schedule a weekly dinner date. Meet new people by taking a class or joining a club. Confide in a clergy member, teacher, or sports coach. Spend some time in nature. List what you like about yourself. Read a good book. Watch a funny movie or TV show. Take a long, hot bath. Take care of a few small tasks. Play with a pet. Talk to friends or family face-to-face. Listen to music. Do something spontaneous
+.</p>
+    </div>
+
+    <div class="w3-third w3-center">
+      <i class="fa fa-frown-o w3-padding-64 w3-text-red"></i>
+    </div>
+  </div>
+</div>
+
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa fa-close w3-padding-64 w3-text-red w3-margin-right"></i>
+    </div>
+<!-- Fourth Grid -->
+    <div id="Phobias" div class="w3-twothird">
+      <h1>Phobias</h1>
+      <h5 class="w3-padding-32">Having a phobia means you are extremely afraid of a specific object, situation, or activity. Having a phobia about something is very different from everyday worry or stress. For example, most people feel worry and stress at some time, such as when speaking in front of a large group of people. People with phobias have so much fear that it's hard to do normal activities, such as going to work.
+Having a phobia includes feeling stressed about being near the object, being in the situation, or doing the activity. It also includes being afraid of the object, situation, or activity itself. People with phobias avoid what they are afraid of so they won't feel worried and stressed. 
+.
+.</h5>
+ <h4> Tips</h4>
+      <p class="w3-text-grey"> Try To Desensitize Yourself
+. Get Help From The Partnership Method
+. Attend A Support Group
+. Self-Exposure Therapy
+. Read Up On The Topic
+. Learn Relaxation Techniques
+. Read Up On The Topic
+.</p>
+    </div>
+  </div>
+</div>
+<!-- Quote of the Day -->
+
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity">  
+  <div class="w3-xlarge w3-padding-32">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+ </div>
+ 
+</footer>
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+
+</body>
+</html>
